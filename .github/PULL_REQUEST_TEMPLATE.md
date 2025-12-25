@@ -24,7 +24,7 @@ If you wish to change this, do so before publishing the PR. -->
 <!-- Summary of code changes for easier review. -->
 
 ## Media
-<!-- Attach media if the PR makes in-game changes (clothing, items, features, etc).
+<!-- Attach media if the PR makes ingame changes (clothing, items, features, etc).
 Small fixes/refactors are exempt. Media may be used in SS14 progress reports with credit. -->
 
 ## Requirements
