@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.DeviceNetwork.Systems.Devices;
+using Content.Server.DeviceNetwork.Systems.Devices;
 
 namespace Content.Server.DeviceNetwork.Components.Devices
 {

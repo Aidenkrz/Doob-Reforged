@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: constructionGraph
+- type: constructionGraph
   id: BananiumHorn
   start: start
   graph:

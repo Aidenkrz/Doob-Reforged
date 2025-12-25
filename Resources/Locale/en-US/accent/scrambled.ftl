@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿accent-scrambled-words-1 = Who?
+accent-scrambled-words-1 = Who?
 accent-scrambled-words-2 = What?
 accent-scrambled-words-3 = When?
 accent-scrambled-words-4 = Where?

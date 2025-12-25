@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# Status effect prototypes.
+# Status effect prototypes.
 # Holds no actual logic, just some basic data about the effect.
 
 # Note: We have a new status effect system that needs all of these status effects to be fully ported to.

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: htnCompound
+- type: htnCompound
   id: HugBotCompound
   branches:
   - tasks:

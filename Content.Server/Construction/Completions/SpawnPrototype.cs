@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Stack;
+using Content.Server.Stack;
 using Content.Shared.Construction;
 using Content.Shared.Prototypes;
 using Content.Shared.Stacks;

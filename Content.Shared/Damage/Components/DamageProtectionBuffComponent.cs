@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Damage.Prototypes;
+using Content.Shared.Damage.Prototypes;
 using Robust.Shared.GameStates;
 
 namespace Content.Shared.Damage.Components;

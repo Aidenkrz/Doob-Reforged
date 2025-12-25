@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Beam.Components;
+using Content.Shared.Beam.Components;
 
 namespace Content.Server.Beam.Components;
 [RegisterComponent]

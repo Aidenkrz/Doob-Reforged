@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿advertisement-boozeomat-1 = I hope nobody asks me for a bloody cup o' tea...
+advertisement-boozeomat-1 = I hope nobody asks me for a bloody cup o' tea...
 advertisement-boozeomat-2 = Alcohol is humanity's friend. Would you abandon a friend?
 advertisement-boozeomat-3 = Quite delighted to serve you!
 advertisement-boozeomat-4 = Is nobody thirsty on this station?
@@ -24,4 +24,3 @@ advertisement-boozeomat-19 = A toast for progress!
 thankyou-boozeomat-1 = Please drink responsibly!
 thankyou-boozeomat-2 = Please drink un-responsibly!
 thankyou-boozeomat-3 = Please enjoy your drink!
-

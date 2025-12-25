@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entity
+- type: entity
   id: Recycler
   parent: BaseMachinePowered
   name: recycler

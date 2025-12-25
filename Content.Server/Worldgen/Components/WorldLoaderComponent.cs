@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Worldgen.Systems;
+using Content.Server.Worldgen.Systems;
 
 namespace Content.Server.Worldgen.Components;
 
@@ -19,4 +19,3 @@ public sealed partial class WorldLoaderComponent : Component
     [ViewVariables(VVAccess.ReadWrite)] [DataField("radius")]
     public int Radius = 128;
 }
-

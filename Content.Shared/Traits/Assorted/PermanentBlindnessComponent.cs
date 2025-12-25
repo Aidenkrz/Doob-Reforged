@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.GameStates;
+using Robust.Shared.GameStates;
 
 namespace Content.Shared.Traits.Assorted;
 
@@ -18,4 +18,3 @@ public sealed partial class PermanentBlindnessComponent : Component
     [DataField, AutoNetworkedField]
     public int Blindness = 0;
 }
-

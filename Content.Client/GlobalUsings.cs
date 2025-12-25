@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿// Global usings for Content.Client
+// Global usings for Content.Client
 
 global using System;
 global using System.Collections.Generic;

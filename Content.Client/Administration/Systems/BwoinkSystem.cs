@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿#nullable enable
+#nullable enable
 using Content.Shared.Administration;
 using JetBrains.Annotations;
 using Robust.Shared.Network;

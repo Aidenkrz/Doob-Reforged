@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿
+
 ### Announcement
 
 earlyleave-cryo-job-unknown = Unknown

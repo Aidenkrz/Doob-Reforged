@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿"Changes: Sprites":
+"Changes: Sprites":
 - changed-files:
   - any-glob-to-any-file: '**/*.rsi/*.png'
 

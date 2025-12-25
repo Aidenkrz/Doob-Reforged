@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: tile
+- type: tile
   id: Plating
   name: tiles-plating
   sprite: /Textures/Tiles/plating.png

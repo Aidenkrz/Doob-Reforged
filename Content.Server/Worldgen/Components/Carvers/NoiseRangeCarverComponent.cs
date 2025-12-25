@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
+using System.Numerics;
 using Content.Server.Worldgen.Prototypes;
 using Content.Server.Worldgen.Systems.Carvers;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype;
@@ -29,4 +29,3 @@ public sealed partial class NoiseRangeCarverComponent : Component
     [DataField("ranges", required: true)]
     public List<Vector2> Ranges { get; private set; } = default!;
 }
-

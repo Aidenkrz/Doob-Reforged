@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿station-event-communication-interception = Attention! Enemy communication intercepted. Security level elevated.
+station-event-communication-interception = Attention! Enemy communication intercepted. Security level elevated.

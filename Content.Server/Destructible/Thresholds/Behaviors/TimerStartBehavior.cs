@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Destructible.Thresholds.Behaviors;
+namespace Content.Server.Destructible.Thresholds.Behaviors;
 
 [DataDefinition]
 public sealed partial class TimerStartBehavior : IThresholdBehavior

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Destructible;
+using Content.Shared.Destructible;
 
 namespace Content.Server.Destructible.Thresholds.Behaviors
 {

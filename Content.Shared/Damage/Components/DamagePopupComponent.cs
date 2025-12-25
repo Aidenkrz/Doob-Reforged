@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Damage.Systems;
+using Content.Shared.Damage.Systems;
 using Robust.Shared.GameStates;
 using Robust.Shared.Serialization;
 

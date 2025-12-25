@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Random;
+using Robust.Shared.Random;
 
 namespace Content.Shared.Lightning;
 

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
+using System.Numerics;
 using Content.Server.Worldgen.Components;
 using Content.Server.Worldgen.Prototypes;
 using Robust.Shared.Prototypes;
@@ -48,4 +48,3 @@ public sealed class NoiseIndexSystem : EntitySystem
         return gen.Evaluate(coords);
     }
 }
-

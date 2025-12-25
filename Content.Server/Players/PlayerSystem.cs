@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Players;
+using Content.Shared.Players;
 using Robust.Shared.Player;
 
 namespace Content.Server.Players;

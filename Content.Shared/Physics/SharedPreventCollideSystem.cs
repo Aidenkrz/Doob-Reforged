@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Physics.Events;
+using Robust.Shared.Physics.Events;
 
 namespace Content.Shared.Physics;
 

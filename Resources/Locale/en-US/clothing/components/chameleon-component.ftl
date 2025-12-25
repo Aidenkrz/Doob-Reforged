@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿
+
 ## UI
 chameleon-component-ui-window-name = Chameleon Settings
 chameleon-component-ui-search-placeholder = Search...

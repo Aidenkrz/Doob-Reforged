@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿## Actions Commands loc
+## Actions Commands loc
 
 ## Upgradeaction command loc
 upgradeaction-command-help = Usage: upgradeaction <entityUid> [level]

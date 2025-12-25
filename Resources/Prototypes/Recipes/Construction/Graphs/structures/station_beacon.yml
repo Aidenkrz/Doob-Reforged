@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: constructionGraph
+- type: constructionGraph
   id: StationBeaconPart
   start: start
   graph:
@@ -27,4 +27,3 @@
             prototype: SheetSteel1
             amount: 1
           - !type:DeleteEntity
-

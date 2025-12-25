@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.CCVar;
+using Content.Shared.CCVar;
 using Robust.Client.GameObjects;
 using Robust.Shared.Configuration;
 using Robust.Shared.Reflection;
@@ -98,4 +98,3 @@ public sealed class OptionsVisualizerSystem : EntitySystem
         }
     }
 }
-

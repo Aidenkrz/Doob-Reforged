@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: worldgenConfig
+- type: worldgenConfig
   id: Default
   components:
     - type: WorldController

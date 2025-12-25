@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Power.Components
+namespace Content.Server.Power.Components
 {
     [RegisterComponent]
     public sealed partial class CableVisComponent : Component

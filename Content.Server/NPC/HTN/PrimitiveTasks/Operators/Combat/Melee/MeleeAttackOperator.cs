@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.NPC.HTN.PrimitiveTasks.Operators.Interactions;
+using Content.Server.NPC.HTN.PrimitiveTasks.Operators.Interactions;
 using Content.Shared.CombatMode;
 using Content.Shared.Weapons.Melee;
 

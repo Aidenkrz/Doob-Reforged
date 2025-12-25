@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Packaging;
+using Content.Packaging;
 using Robust.Packaging;
 
 IPackageLogger logger = new PackageLoggerConsole();

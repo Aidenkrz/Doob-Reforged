@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
+using System.Numerics;
 using Content.Server.Worldgen.Systems.Debris;
 
 namespace Content.Server.Worldgen.Components.Debris;
@@ -25,4 +25,3 @@ public sealed partial class OwnedDebrisComponent : Component
     /// </summary>
     [DataField("owningController")] public EntityUid OwningController;
 }
-

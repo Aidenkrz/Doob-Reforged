@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Destructible;
+using Content.Server.Destructible;
 
 namespace Content.Server.RequiresGrid;
 

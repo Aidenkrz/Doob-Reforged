@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Ghost.Roles.Raffles;
+using Content.Server.Ghost.Roles.Raffles;
 using Robust.Shared.Player;
 
 namespace Content.Server.Ghost.Roles.Components;

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Player;
+using Robust.Shared.Player;
 
 namespace Content.Server.Ghost.Roles.Raffles;
 
@@ -29,4 +29,3 @@ public partial interface IGhostRoleRaffleDecider
     /// </param>
     void PickWinner(IEnumerable<ICommonSession> candidates, Func<ICommonSession, bool> tryTakeover);
 }
-

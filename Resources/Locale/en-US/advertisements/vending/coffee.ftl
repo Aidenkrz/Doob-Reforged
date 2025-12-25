@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿advertisement-coffee-1 = Have a drink!
+advertisement-coffee-1 = Have a drink!
 advertisement-coffee-2 = Drink up!
 advertisement-coffee-3 = It's good for you!
 advertisement-coffee-4 = Would you like a hot joe?

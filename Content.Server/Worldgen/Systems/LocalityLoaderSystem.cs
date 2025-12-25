@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Worldgen.Components;
+using Content.Server.Worldgen.Components;
 using Robust.Server.GameObjects;
 
 namespace Content.Server.Worldgen.Systems;
@@ -64,4 +64,3 @@ public sealed class LocalityLoaderSystem : BaseWorldSystem
 ///     A directed fired on a loadable entity when a local loader enters it's vicinity.
 /// </summary>
 public record struct LocalStructureLoadedEvent;
-

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Weapons.Ranged.Events;
+namespace Content.Shared.Weapons.Ranged.Events;
 
 /// <summary>
 ///     Raised directed on the gun entity when a muzzle flash is about to happen.

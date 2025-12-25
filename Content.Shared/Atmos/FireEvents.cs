@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Inventory;
+using Content.Shared.Inventory;
 using Content.Shared.Nutrition.Components;
 
 namespace Content.Shared.Atmos;

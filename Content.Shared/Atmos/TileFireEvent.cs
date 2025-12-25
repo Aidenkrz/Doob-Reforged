@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Atmos;
+namespace Content.Shared.Atmos;
 
 /// <summary>
 /// Event raised on an entity when it is standing on a tile that's on fire.

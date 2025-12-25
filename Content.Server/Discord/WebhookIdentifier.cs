@@ -2,6 +2,6 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Discord;
+namespace Content.Server.Discord;
 
 public record struct WebhookIdentifier(string Id, string Token);

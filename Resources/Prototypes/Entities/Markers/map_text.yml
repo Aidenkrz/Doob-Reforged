@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entity
+- type: entity
   id: MapText
   parent: MarkerBase
   name: map text
@@ -12,4 +12,3 @@
   - type: MapText
   - type: Sprite
     state: pink
-

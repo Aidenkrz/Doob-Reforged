@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using Content.Server.Database;
 using Content.Shared.Players.PlayTimeTracking;
 using Robust.Shared.Network;

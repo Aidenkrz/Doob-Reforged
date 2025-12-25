@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿player-tab-player-count = Players: { $count }
+player-tab-player-count = Players: { $count }
 player-tab-username = Username
 player-tab-character = Character
 player-tab-job = Job

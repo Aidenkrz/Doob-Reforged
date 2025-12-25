@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Revenant.EntitySystems;
+using Content.Shared.Revenant.EntitySystems;
 
 namespace Content.Client.Revenant;
 

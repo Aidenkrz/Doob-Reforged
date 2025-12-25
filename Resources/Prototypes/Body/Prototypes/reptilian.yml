@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: body
+- type: body
   name: "reptilian"
   id: Reptilian
   root: torso

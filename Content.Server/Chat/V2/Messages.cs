@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Chat.Prototypes;
+using Content.Shared.Chat.Prototypes;
 using Content.Shared.Chat.V2;
 using Content.Shared.Radio;
 
@@ -95,4 +95,3 @@ public sealed class WhisperCreatedEvent(EntityUid speaker, string message, float
     public float MinRange = minRange;
     public float MaxRange = maxRange;
 }
-

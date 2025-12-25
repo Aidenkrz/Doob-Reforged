@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Text.Unicode;
+using System.Text.Unicode;
 using Content.Shared.Chat.V2.Moderation;
 using NUnit.Framework;
 

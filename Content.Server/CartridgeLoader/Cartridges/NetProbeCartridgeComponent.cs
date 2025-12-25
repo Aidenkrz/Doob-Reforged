@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.CartridgeLoader.Cartridges;
+using Content.Shared.CartridgeLoader.Cartridges;
 using Robust.Shared.Audio;
 
 namespace Content.Server.CartridgeLoader.Cartridges;
@@ -25,5 +25,3 @@ public sealed partial class NetProbeCartridgeComponent : Component
     [DataField("soundScan")]
     public SoundSpecifier SoundScan = new SoundPathSpecifier("/Audio/Machines/scan_finish.ogg");
 }
-
-

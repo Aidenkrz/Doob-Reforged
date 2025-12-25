@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Atmos.Components;
+using Content.Shared.Atmos.Components;
 
 namespace Content.Shared.Atmos.EntitySystems;
 

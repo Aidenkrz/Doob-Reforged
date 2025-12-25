@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Atmos.EntitySystems;
+using Content.Server.Atmos.EntitySystems;
 
 namespace Content.Server.Atmos.Components;
 
@@ -34,4 +34,3 @@ public record struct GetPressureProtectionValuesEvent
     public float LowPressureMultiplier;
     public float LowPressureModifier;
 }
-

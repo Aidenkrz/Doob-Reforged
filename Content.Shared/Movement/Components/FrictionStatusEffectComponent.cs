@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Movement.Systems;
+using Content.Shared.Movement.Systems;
 using Robust.Shared.GameStates;
 
 namespace Content.Shared.Movement.Components;

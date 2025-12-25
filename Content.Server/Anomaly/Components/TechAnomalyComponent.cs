@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Anomaly.Effects;
+using Content.Server.Anomaly.Effects;
 using Content.Shared.Destructible.Thresholds;
 using Content.Shared.DeviceLinking;
 using Robust.Shared.Prototypes;

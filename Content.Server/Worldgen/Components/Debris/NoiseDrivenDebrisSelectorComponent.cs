@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Worldgen.Prototypes;
+using Content.Server.Worldgen.Prototypes;
 using Content.Server.Worldgen.Systems.Debris;
 using Content.Server.Worldgen.Tools;
 using Content.Shared.Storage;
@@ -45,4 +45,3 @@ public sealed partial class NoiseDrivenDebrisSelectorComponent : Component
     [DataField("noiseChannel", customTypeSerializer: typeof(PrototypeIdSerializer<NoiseChannelPrototype>))]
     public string NoiseChannel { get; private set; } = default!;
 }
-

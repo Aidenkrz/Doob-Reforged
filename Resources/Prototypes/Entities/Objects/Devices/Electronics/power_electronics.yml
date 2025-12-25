@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# APC
+# APC
 - type: entity
   id: APCElectronics
   parent: BaseElectronics

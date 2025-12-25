@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Beam;
+using Content.Server.Beam;
 using Content.Shared.Revenant.Components;
 using Content.Shared.Revenant.EntitySystems;
 

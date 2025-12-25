@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Temperature.Systems;
+using Content.Shared.Temperature.Systems;
 
 namespace Content.Client.Temperature.Systems;
 

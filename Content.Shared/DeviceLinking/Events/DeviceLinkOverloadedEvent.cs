@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.DeviceLinking.Events;
+namespace Content.Shared.DeviceLinking.Events;
 
 [ByRefEvent]
 public readonly record struct DeviceLinkOverloadedEvent;

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entity
+- type: entity
   parent: [DrinkBaseMaterialGlass, DrinkBase]
   id: DrinkMeth
   name: meth  # beer it is. coffee. beer? coff-ee? be-er? c-o... b-e

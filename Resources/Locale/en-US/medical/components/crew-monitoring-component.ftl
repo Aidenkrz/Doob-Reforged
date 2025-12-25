@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿## UI
+## UI
 
 crew-monitoring-ui-title = Crew Monitoring Console
 

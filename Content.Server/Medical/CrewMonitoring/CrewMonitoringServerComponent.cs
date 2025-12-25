@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Medical.SuitSensor;
+using Content.Shared.Medical.SuitSensor;
 using Robust.Shared.Map;
 
 namespace Content.Server.Medical.CrewMonitoring;

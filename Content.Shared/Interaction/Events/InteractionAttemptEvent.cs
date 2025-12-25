@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Interaction.Events
+namespace Content.Shared.Interaction.Events
 {
     /// <summary>
     ///     Event raised directed at a user to see if they can perform a generic interaction.

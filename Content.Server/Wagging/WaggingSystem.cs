@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Actions;
+using Content.Server.Actions;
 using Content.Server.Humanoid;
 using Content.Shared.Cloning.Events;
 using Content.Shared.Humanoid;

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿### Localization for role ban command
+### Localization for role ban command
 
 cmd-roleban-desc = Bans a player from a role
 cmd-roleban-help = Usage: roleban <name or user ID> <job> <reason> [duration in minutes, leave out or 0 for permanent ban]

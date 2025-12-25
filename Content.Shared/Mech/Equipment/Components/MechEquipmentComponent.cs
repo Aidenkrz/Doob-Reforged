@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.DoAfter;
+using Content.Shared.DoAfter;
 using Content.Shared.Mech.Components;
 using Robust.Shared.Serialization;
 
@@ -54,4 +54,3 @@ public sealed partial class GrabberDoAfterEvent : SimpleDoAfterEvent
 public sealed partial class InsertEquipmentEvent : SimpleDoAfterEvent
 {
 }
-

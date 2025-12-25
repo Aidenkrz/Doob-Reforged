@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Antag.Components;
+namespace Content.Server.Antag.Components;
 
 [RegisterComponent]
 public sealed partial class AntagImmuneComponent : Component

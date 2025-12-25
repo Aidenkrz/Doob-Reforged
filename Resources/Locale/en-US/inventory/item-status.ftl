@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿item-status-not-held = No held item
+item-status-not-held = No held item

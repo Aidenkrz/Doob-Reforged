@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.CartridgeLoader;
+using Content.Shared.CartridgeLoader;
 
 namespace Content.Client.CartridgeLoader;
 

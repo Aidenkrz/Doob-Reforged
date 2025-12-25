@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Prototypes;
+using Robust.Shared.Prototypes;
 
 namespace Content.Shared.Station;
 
@@ -18,4 +18,3 @@ public sealed partial class StationConfig
     [DataField("components", required: true)]
     public ComponentRegistry StationComponentOverrides = default!;
 }
-

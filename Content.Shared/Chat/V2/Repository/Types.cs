@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Linq;
+using System.Linq;
 using System.Runtime.InteropServices;
 using Robust.Shared.Network;
 using Robust.Shared.Serialization;
@@ -61,4 +61,3 @@ public sealed class MessagesNukedEvent(List<uint> set) : EntityEventArgs
 {
     public uint[] MessageIds = CollectionsMarshal.AsSpan(set).ToArray();
 }
-

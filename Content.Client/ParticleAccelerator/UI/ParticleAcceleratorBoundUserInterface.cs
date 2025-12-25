@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Singularity.Components;
+using Content.Shared.Singularity.Components;
 using Robust.Client.UserInterface;
 
 namespace Content.Client.ParticleAccelerator.UI

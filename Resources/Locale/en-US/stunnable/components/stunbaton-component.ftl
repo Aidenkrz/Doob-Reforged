@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿### Stunbaton component
+### Stunbaton component
 
 comp-stunbaton-stun = Stunned
 

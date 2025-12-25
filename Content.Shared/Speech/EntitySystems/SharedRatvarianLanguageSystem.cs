@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.StatusEffect;
+using Content.Shared.StatusEffect;
 
 namespace Content.Shared.Speech.EntitySystems;
 

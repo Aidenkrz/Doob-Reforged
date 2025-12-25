@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿#nullable disable
+#nullable disable
 
 using System.Text.Json;
 using Microsoft.EntityFrameworkCore.Migrations;

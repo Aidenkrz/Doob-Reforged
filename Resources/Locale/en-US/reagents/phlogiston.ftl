@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿phlogiston-plasma-created = The mixture bubbles, and plasma rises from it!
+phlogiston-plasma-created = The mixture bubbles, and plasma rises from it!

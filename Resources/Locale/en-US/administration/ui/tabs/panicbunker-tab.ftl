@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿admin-ui-panic-bunker-window-title = Panic Bunker
+admin-ui-panic-bunker-window-title = Panic Bunker
 
 admin-ui-panic-bunker-enabled = Panic Bunker Enabled
 admin-ui-panic-bunker-disabled = Panic Bunker Disabled

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.ProximityDetection.Components;
+using Content.Shared.ProximityDetection.Components;
 
 namespace Content.Shared.ProximityDetection;
 

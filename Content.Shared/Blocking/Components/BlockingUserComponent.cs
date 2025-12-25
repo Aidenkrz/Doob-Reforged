@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Physics;
+using Robust.Shared.Physics;
 
 namespace Content.Shared.Blocking;
 

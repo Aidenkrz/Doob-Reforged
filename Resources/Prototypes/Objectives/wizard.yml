@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entity
+- type: entity
   abstract: true
   parent: BaseObjective
   id: BaseWizardObjective

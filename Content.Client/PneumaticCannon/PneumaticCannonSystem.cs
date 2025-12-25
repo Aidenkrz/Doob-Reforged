@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.PneumaticCannon;
+using Content.Shared.PneumaticCannon;
 
 namespace Content.Client.PneumaticCannon;
 

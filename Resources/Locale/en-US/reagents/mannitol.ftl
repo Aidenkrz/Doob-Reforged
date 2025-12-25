@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿mannitol-effect-enlightened = You feel ENLIGHTENED!
+mannitol-effect-enlightened = You feel ENLIGHTENED!

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿name: Publish Testing
+name: Publish Testing
 
 concurrency:
   group: publish-testing

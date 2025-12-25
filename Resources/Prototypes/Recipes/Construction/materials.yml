@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: construction
+- type: construction
   id: MetalRod
   graph: MetalRod
   startNode: start

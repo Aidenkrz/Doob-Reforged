@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Rounding
+namespace Content.Shared.Rounding
 {
     public static class ContentHelpers
     {

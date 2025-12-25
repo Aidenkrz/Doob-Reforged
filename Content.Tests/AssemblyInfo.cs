@@ -2,6 +2,6 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using NUnit.Framework;
+using NUnit.Framework;
 
 [assembly: Parallelizable(ParallelScope.Fixtures)]

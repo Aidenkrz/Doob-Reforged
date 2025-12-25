@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.EntityEffects.Effects.Body;
+namespace Content.Shared.EntityEffects.Effects.Body;
 
 /// <summary>
 /// See serverside system.

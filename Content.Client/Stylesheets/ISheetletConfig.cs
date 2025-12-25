@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Client.Stylesheets;
+namespace Content.Client.Stylesheets;
 
 public interface ISheetletConfig : IStyleResources
 {

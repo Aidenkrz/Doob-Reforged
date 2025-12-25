@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Decals;
+using Content.Shared.Decals;
 using Content.Shared.Maps;
 using Robust.Shared.Prototypes;
 

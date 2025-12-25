@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Atmos;
+namespace Content.Server.Atmos;
 
 /// <summary>
 /// Internal Atmospherics struct that stores data about a hotspot in a tile.

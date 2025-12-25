@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: gas
+- type: gas
   id: Oxygen
   name: gases-oxygen
   specificHeat: 20

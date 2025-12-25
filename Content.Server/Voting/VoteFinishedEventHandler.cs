@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿
+
 namespace Content.Server.Voting
 {
     public delegate void VoteFinishedEventHandler(IVoteHandle sender, VoteFinishedEventArgs args);

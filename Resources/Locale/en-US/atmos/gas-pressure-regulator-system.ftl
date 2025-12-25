@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# Examine Text
+# Examine Text
 gas-pressure-regulator-system-examined = The valve is [color={$statusColor}]{$open ->
 [true] open
 *[false] closed

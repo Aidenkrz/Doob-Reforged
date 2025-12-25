@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿construction-category-all = All
+construction-category-all = All
 construction-category-furniture = Furniture
 construction-category-storage = Storage
 construction-category-tools = Tools

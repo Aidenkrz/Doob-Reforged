@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿[assembly: Parallelizable(ParallelScope.Children)]
+[assembly: Parallelizable(ParallelScope.Children)]
 
 // I don't know why this parallelism limit was originally put here.
 // I *do* know that I tried removing it, and ran into the following .NET runtime problem:

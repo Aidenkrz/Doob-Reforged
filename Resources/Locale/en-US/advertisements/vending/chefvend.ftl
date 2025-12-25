@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿advertisement-chefvend-1 = At least sixty percent of our eggs un-broken, guranteed!
+advertisement-chefvend-1 = At least sixty percent of our eggs un-broken, guranteed!
 advertisement-chefvend-2 = Rice, rice, baby.
 advertisement-chefvend-3 = Slap some butter on it!
 advertisement-chefvend-4 = Are you worth your salt? We are.

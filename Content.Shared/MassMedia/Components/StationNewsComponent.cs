@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.MassMedia.Systems;
+using Content.Shared.MassMedia.Systems;
 
 namespace Content.Shared.MassMedia.Components;
 

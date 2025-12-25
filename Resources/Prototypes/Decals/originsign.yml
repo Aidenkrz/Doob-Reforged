@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: decal
+- type: decal
   id: OriginStationSign1
   tags: ["station"]
   sprite:
@@ -93,4 +93,3 @@
   sprite:
     sprite: Decals/originsign.rsi
     state: origin13
-

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Diagnostics.Contracts;
+using System.Diagnostics.Contracts;
 using System.Numerics;
 
 namespace Content.Server.Worldgen;
@@ -73,4 +73,3 @@ public static class WorldGen
         return inp * ChunkSize + Vector2i.One * (ChunkSize / 2);
     }
 }
-

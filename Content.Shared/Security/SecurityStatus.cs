@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Security;
+namespace Content.Shared.Security;
 
 /// <summary>
 /// Status used in Criminal Records.

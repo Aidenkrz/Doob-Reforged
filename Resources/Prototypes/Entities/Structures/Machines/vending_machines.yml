@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# base
+# base
 
 - type: entity
   id: VendingMachine

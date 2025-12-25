@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿## Modes
+## Modes
 
 suit-sensor-mode-off = Off
 suit-sensor-mode-binary = Binary

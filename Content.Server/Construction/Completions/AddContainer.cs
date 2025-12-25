@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Construction;
+using Content.Shared.Construction;
 using JetBrains.Annotations;
 
 namespace Content.Server.Construction.Completions

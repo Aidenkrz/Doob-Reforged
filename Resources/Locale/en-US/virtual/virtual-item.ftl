@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿virtual-item-dropped-other = You dropped {THE($dropped)}!
+virtual-item-dropped-other = You dropped {THE($dropped)}!
