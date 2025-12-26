@@ -6,7 +6,7 @@ using Content.Server.Destructible;
 using Content.Shared.Construction;
 using Content.Shared.Damage.Components;
 using Content.Shared.Examine;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 
 namespace Content.Server.Construction.Conditions;
 

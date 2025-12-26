@@ -3,11 +3,11 @@
 // SPDX-License-Identifier: MIT-WIZARDS
 
 using System.Globalization;
-using System.Linq;
 using Robust.Shared.Serialization;
+using Robust.Shared.Serialization.Manager.Attributes;
 using Robust.Shared.Utility;
 
-namespace Content.Shared.FixedPoint
+namespace Content.Goobstation.Maths.FixedPoint
 {
     /// <summary>
     ///     Represents a quantity of something, to a precision of 0.01.

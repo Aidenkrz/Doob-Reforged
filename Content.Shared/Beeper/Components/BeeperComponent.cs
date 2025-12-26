@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: MIT-WIZARDS
 
 using Content.Shared.Beeper.Systems;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared.ProximityDetection.Systems;
 using Robust.Shared.Audio;
 using Robust.Shared.GameStates;

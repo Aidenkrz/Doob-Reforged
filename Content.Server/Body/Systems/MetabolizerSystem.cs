@@ -14,7 +14,7 @@ using Content.Shared.EntityConditions.Conditions.Body;
 using Content.Shared.EntityEffects;
 using Content.Shared.EntityEffects.Effects.Body;
 using Content.Shared.EntityEffects.Effects.Solution;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared.Mobs.Systems;
 using Robust.Shared.Collections;
 using Robust.Shared.Prototypes;
@@ -287,4 +287,3 @@ public sealed class MetabolizerSystem : SharedMetabolizerSystem
         return true;
     }
 }
-

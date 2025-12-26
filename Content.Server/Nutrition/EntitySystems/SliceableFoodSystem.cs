@@ -9,7 +9,7 @@ using Content.Shared.Nutrition;
 using Content.Shared.Nutrition.Components;
 using Content.Shared.Chemistry.Components;
 using Content.Shared.DoAfter;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared.Interaction;
 using Robust.Server.GameObjects;
 using Robust.Shared.Audio;
@@ -171,4 +171,3 @@ public sealed class SliceableFoodSystem : EntitySystem
         _solutionContainer.EnsureSolution(entity.Owner, foodComp.Solution, out _);
     }
 }
-

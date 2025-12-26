@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: MIT-WIZARDS
 
 using Content.Shared.Damage.Components;
-using Content.Shared.FixedPoint;
+using Content.Goobstation.Maths.FixedPoint;
 using Robust.Shared.Prototypes;
 
 namespace Content.Shared.EntityConditions.Conditions;
