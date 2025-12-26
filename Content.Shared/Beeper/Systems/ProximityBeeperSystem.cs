@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Beeper.Components;
+using Content.Shared.Beeper.Components;
 using Content.Shared.Item.ItemToggle;
 using Content.Shared.Pinpointer;
 using Content.Shared.ProximityDetection;

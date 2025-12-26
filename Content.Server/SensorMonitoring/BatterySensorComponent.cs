@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Power.Components;
+using Content.Server.Power.Components;
 using Content.Shared.Power.Components;
 
 namespace Content.Server.SensorMonitoring;

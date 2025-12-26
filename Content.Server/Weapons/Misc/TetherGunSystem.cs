@@ -1,8 +1,3 @@
-// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
-//
-// SPDX-License-Identifier: MIT-WIZARDS
-
-using Content.Server.PowerCell;
 using Content.Shared.Item.ItemToggle;
 using Content.Shared.PowerCell;
 using Content.Shared.Weapons.Misc;

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Access.Systems;
+using Content.Shared.Access.Systems;
 
 namespace Content.Shared.Access.Components;
 

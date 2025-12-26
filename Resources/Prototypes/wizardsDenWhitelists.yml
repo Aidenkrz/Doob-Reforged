@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# This is the whitelist used for Wizard's Den Salamander
+# This is the whitelist used for Wizard's Den Salamander
 
 - type: playerConnectionWhitelist
   id: salamanderMrpWhitelist

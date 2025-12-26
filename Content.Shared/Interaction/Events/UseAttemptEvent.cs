@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Interaction.Events
+namespace Content.Shared.Interaction.Events
 {
     public sealed class UseAttemptEvent(EntityUid uid, EntityUid used) : CancellableEntityEventArgs
     {

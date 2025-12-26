@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Worldgen.Prototypes;
+using Content.Server.Worldgen.Prototypes;
 using Content.Server.Worldgen.Systems;
 
 namespace Content.Server.Worldgen.Components;
@@ -21,4 +21,3 @@ public sealed partial class NoiseIndexComponent : Component
     [Access(typeof(NoiseIndexSystem), Friend = AccessPermissions.ReadWriteExecute, Other = AccessPermissions.None)]
     public Dictionary<string, NoiseGenerator> Generators { get; } = new();
 }
-

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Physics.Components;
+using Robust.Shared.Physics.Components;
 
 namespace Content.Shared.Movement.Pulling.Events;
 

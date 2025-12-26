@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Xenoarchaeology.Artifact.XAE.Components;
+namespace Content.Server.Xenoarchaeology.Artifact.XAE.Components;
 
 /// <summary>
 ///     Harmless artifact that broadcast "thoughts" to players nearby.

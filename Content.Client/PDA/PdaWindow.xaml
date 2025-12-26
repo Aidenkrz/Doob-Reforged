@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
 SPDX-License-Identifier: MIT-WIZARDS
 -->
 
-﻿<pda:PdaWindow  xmlns="https://spacestation14.io"
+<pda:PdaWindow  xmlns="https://spacestation14.io"
                 xmlns:pda="clr-namespace:Content.Client.PDA"
                 MouseFilter="Stop">
     <PanelContainer Name="Background" Access="Public" StyleClasses="PdaBackgroundRect" />

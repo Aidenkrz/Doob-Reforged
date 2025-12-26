@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Client.Graphics;
+using Robust.Client.Graphics;
 
 namespace Content.Client.Graphics;
 

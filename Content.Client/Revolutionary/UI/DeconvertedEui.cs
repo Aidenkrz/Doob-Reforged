@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Client.Eui;
+using Content.Client.Eui;
 
 namespace Content.Client.Revolutionary.UI;
 

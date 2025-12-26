@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Construction
+namespace Content.Shared.Construction
 {
     [ImplicitDataDefinitionForInheritors]
     public partial interface IGraphAction

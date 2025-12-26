@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
 SPDX-License-Identifier: MIT-WIZARDS
 -->
 
-﻿<bans:BanListControl
+<bans:BanListControl
     xmlns="https://spacestation14.io"
     xmlns:bans="clr-namespace:Content.Client.Administration.UI.BanList.Bans">
     <PanelContainer StyleClasses="BackgroundDark">

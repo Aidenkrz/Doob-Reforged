@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿### Interaction Messages
+### Interaction Messages
 
 # System
 

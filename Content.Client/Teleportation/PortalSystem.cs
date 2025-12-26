@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Teleportation.Systems;
+using Content.Shared.Teleportation.Systems;
 
 namespace Content.Client.Teleportation;
 

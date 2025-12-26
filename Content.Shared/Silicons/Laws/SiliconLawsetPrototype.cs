@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Prototypes;
+using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
 
 namespace Content.Shared.Silicons.Laws;
@@ -72,7 +72,7 @@ public sealed partial class SiliconLawsetPrototype : IPrototype
 
     /// <summary>
     /// The locstring of the lawset for the guidebook entry, if no name is provided, defaults to the ID
-    /// </summary>    
+    /// </summary>
     [DataField]
     public LocId? Name = null;
 

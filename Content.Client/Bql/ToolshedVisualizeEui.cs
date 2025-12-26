@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Client.Eui;
+using Content.Client.Eui;
 using Content.Shared.Bql;
 using Content.Shared.Eui;
 using JetBrains.Annotations;

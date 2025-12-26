@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Random;
+using Content.Shared.Random;
 using Content.Shared.Storage;
 using Robust.Shared.Prototypes;
 

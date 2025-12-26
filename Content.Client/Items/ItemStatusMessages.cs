@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Client.UserInterface;
+using Robust.Client.UserInterface;
 
 namespace Content.Client.Items
 {

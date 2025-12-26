@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿addtag-command-description = Adds a tag to a given entity
+addtag-command-description = Adds a tag to a given entity
 addtag-command-help = Usage: addtag <entity uid> <tag>
 
 addtag-command-success = Added {$tag} to {$target}.

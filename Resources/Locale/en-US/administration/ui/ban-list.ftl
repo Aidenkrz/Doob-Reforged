@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# UI
+# UI
 ban-list-bans = Bans
 ban-list-role-bans = Role Bans
 

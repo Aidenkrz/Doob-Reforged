@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
+using System.Numerics;
 using Content.Client.Parallax.Data;
 using Content.Client.Parallax.Managers;
 using Robust.Client.Graphics;
@@ -96,4 +96,3 @@ public sealed class ParallaxControl : Control
         }
     }
 }
-

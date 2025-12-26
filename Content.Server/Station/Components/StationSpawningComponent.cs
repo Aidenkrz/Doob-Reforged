@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Station.Systems;
+using Content.Server.Station.Systems;
 
 namespace Content.Server.Station.Components;
 

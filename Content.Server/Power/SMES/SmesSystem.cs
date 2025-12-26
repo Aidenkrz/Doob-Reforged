@@ -6,6 +6,7 @@ using Content.Server.Power.Components;
 using Content.Server.Power.EntitySystems;
 using Content.Shared.Power;
 using Content.Shared.Power.Components;
+using Content.Shared.Power.EntitySystems;
 using Content.Shared.Rounding;
 using Content.Shared.SMES;
 using JetBrains.Annotations;
@@ -18,6 +19,7 @@ internal sealed class SmesSystem : EntitySystem
 {
     [Dependency] private readonly IGameTiming _gameTiming = default!;
     [Dependency] private readonly SharedAppearanceSystem _appearance = default!;
+    [Dependency] private readonly SharedBatterySystem _battery = default!;
 
     public override void Initialize()
     {
@@ -65,7 +67,8 @@ internal sealed class SmesSystem : EntitySystem
         if (!Resolve(uid, ref battery, false))
             return 0;
 
-        return ContentHelpers.RoundToLevels(battery.CurrentCharge, battery.MaxCharge, 6);
+        var currentCharge = _battery.GetCharge((uid, battery));
+        return ContentHelpers.RoundToLevels(currentCharge, battery.MaxCharge, 6);
     }
 
     private ChargeState CalcChargeState(EntityUid uid, PowerNetworkBatteryComponent? netBattery = null)

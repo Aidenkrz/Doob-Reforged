@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.EntityEffects.Effects.StatusEffects;
+namespace Content.Shared.EntityEffects.Effects.StatusEffects;
 
 /// <summary>
 /// Entity effect that specifically deals with new status effects.

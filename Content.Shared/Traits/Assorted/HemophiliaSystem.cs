@@ -2,7 +2,8 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Body.Events;
+using Content.Shared.Body.Events;
+using Content.Shared.StatusEffectNew;
 
 namespace Content.Shared.Traits.Assorted;
 
@@ -10,11 +11,14 @@ public sealed class HemophiliaSystem : EntitySystem
 {
     public override void Initialize()
     {
-        SubscribeLocalEvent<HemophiliaComponent, BleedModifierEvent>(OnBleedModifier);
+        SubscribeLocalEvent<HemophiliaStatusEffectComponent, StatusEffectRelayedEvent<BleedModifierEvent>>(OnBleedModifier);
     }
 
-    private void OnBleedModifier(Entity<HemophiliaComponent> ent, ref BleedModifierEvent args)
+    private void OnBleedModifier(Entity<HemophiliaStatusEffectComponent> ent, ref StatusEffectRelayedEvent<BleedModifierEvent> args)
     {
-        args.BleedReductionAmount *= ent.Comp.HemophiliaBleedReductionMultiplier;
+        var ev = args.Args;
+        ev.BleedReductionAmount *= ent.Comp.BleedReductionMultiplier;
+        ev.BleedAmount *= ent.Comp.BleedAmountMultiplier;
+        args.Args = ev;
     }
 }

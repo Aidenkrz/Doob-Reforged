@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Administration.Components;
+using Content.Shared.Administration.Components;
 using Robust.Client.GameObjects;
 
 namespace Content.Client.Administration.Systems;

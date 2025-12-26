@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Client.Stylesheets.Palette;
+using Content.Client.Stylesheets.Palette;
 
 namespace Content.Client.Stylesheets.Stylesheets;
 

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Disposal.Unit;
+using Content.Server.Disposal.Unit;
 
 namespace Content.Server.Disposal.Tube;
 

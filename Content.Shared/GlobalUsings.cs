@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿// There isn't really a 'default place' to put these,
+// There isn't really a 'default place' to put these,
 // so a file in the project top level directory it is
 
 global using System;
@@ -15,5 +15,3 @@ global using Robust.Shared.IoC;
 global using Robust.Shared.Maths;
 global using Robust.Shared.ViewVariables;
 global using Robust.Shared.Serialization.Manager.Attributes;
-
-

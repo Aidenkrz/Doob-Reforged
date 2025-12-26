@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿locking-whitelist-component-lock-toggle-deny = You can't toggle the lock.
+locking-whitelist-component-lock-toggle-deny = You can't toggle the lock.

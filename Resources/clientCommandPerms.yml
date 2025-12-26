@@ -77,6 +77,7 @@
     - localdelete
     - fullstatereset
     - dumpentities
+    - showwallmounts
     - showaccessreaders
     - quickinspect
 
@@ -88,6 +89,7 @@
     - showsubfloorforever
     - toggleautosave
     - toggledecals
+    - showwallmounts
     - showaccessreaders
 
 - Flags: QUERY

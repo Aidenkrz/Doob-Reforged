@@ -2,15 +2,16 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
-using Content.Server.Administration.Components;
+using System.Numerics;
 using Content.Shared.Administration;
+using Content.Shared.Administration.Components;
+using Content.Shared.Administration.Systems;
 using Robust.Shared.Map;
 using Robust.Shared.Random;
 
 namespace Content.Server.Administration.Systems;
 
-public sealed class BufferingSystem : EntitySystem
+public sealed class BufferingSystem : SharedBufferingSystem
 {
     [Dependency] private readonly IRobustRandom _random = default!;
 

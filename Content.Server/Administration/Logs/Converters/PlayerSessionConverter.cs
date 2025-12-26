@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Text.Json;
+using System.Text.Json;
 using Content.Shared.Administration.Logs;
 
 namespace Content.Server.Administration.Logs.Converters;

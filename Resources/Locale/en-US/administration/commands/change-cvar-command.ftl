@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿cmd-changecvar-no-arguments = You must specify a cvar.
+cmd-changecvar-no-arguments = You must specify a cvar.
 cmd-changecvar-cvar-not-registered = The cvar {$cvar} is not registered.
 cmd-changecvar-cvar-not-allowed = You cannot change this cvar.
 cmd-changecvar-value-out-of-range = The value is out of range. The range is {$min} to {$max}.

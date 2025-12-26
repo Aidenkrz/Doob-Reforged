@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.RequiresGrid;
+namespace Content.Server.RequiresGrid;
 
 /// <summary>
 /// Destroys an entity when they no longer are part of a Grid

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Pointing.Components;
+namespace Content.Server.Pointing.Components;
 
 /// <summary>
 /// Causes pointing arrows to go mode and murder this entity.

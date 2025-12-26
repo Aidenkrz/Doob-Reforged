@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entityList
+- type: entityList
   id: surgerytools
   entities:
   - Cautery

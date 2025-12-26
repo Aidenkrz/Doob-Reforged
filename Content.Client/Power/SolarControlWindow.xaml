@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
 SPDX-License-Identifier: MIT-WIZARDS
 -->
 
-﻿<DefaultWindow xmlns="https://spacestation14.io"
+<DefaultWindow xmlns="https://spacestation14.io"
             xmlns:power="clr-namespace:Content.Client.Power"
             Title="{Loc 'solar-control-window-title'}"
             Resizable="False">
@@ -35,4 +35,3 @@ SPDX-License-Identifier: MIT-WIZARDS
         <power:SolarControlNotARadar Name="NotARadar"/>
     </BoxContainer>
 </DefaultWindow>
-

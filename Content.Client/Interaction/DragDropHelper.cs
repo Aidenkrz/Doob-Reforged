@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.CCVar;
+using Content.Shared.CCVar;
 using Robust.Client.Input;
 using Robust.Shared.Configuration;
 using Robust.Shared.Map;

@@ -6,7 +6,7 @@
   id: FigurinesHoP
   values:
     prefix: figurines-hop-
-    count: 5
+    count: 7
 
 - type: localizedDataset
   id: FigurinesPassenger
@@ -24,7 +24,7 @@
   id: FigurinesClown
   values:
     prefix: figurines-clown-
-    count: 7
+    count: 8
 
 - type: localizedDataset
   id: FigurinesHoloClown
@@ -48,7 +48,7 @@
   id: FigurinesBoxer
   values:
     prefix: figurines-boxer-
-    count: 5
+    count: 6
 
 - type: localizedDataset
   id: FigurinesCaptain
@@ -84,25 +84,25 @@
   id: FigurinesLawyer
   values:
     prefix: figurines-lawyer-
-    count: 5
+    count: 12
 
 - type: localizedDataset
   id: FigurinesCargoTech
   values:
     prefix: figurines-cargotech-
-    count: 6
+    count: 11
 
 - type: localizedDataset
   id: FigurinesSalvage
   values:
     prefix: figurines-salvage-
-    count: 6
+    count: 9
 
 - type: localizedDataset
   id: FigurinesQM
   values:
     prefix: figurines-qm-
-    count: 9
+    count: 8
 
 - type: localizedDataset
   id: FigurinesCE
@@ -120,7 +120,7 @@
   id: FigurinesAtmosTech
   values:
     prefix: figurines-atmostech-
-    count: 7
+    count: 9
 
 - type: localizedDataset
   id: FigurinesRD
@@ -144,7 +144,7 @@
   id: FigurinesChemist
   values:
     prefix: figurines-chemist-
-    count: 6
+    count: 8
 
 - type: localizedDataset
   id: FigurinesParamedic
@@ -156,7 +156,7 @@
   id: FigurinesDoctor
   values:
     prefix: figurines-doctor-
-    count: 5
+    count: 6
 
 - type: localizedDataset
   id: FigurinesLibrarian
@@ -195,6 +195,12 @@
     count: 9
 
 - type: localizedDataset
+  id: FigurinesAI
+  values:
+    prefix: figurines-AI-
+    count: 7
+
+- type: localizedDataset
   id: FigurinesNukie
   values:
     prefix: figurines-nukie-
@@ -222,7 +228,7 @@
   id: FigurinesWizard
   values:
     prefix: figurines-wizard-
-    count: 4
+    count: 8
 
 - type: localizedDataset
   id: FigurinesSpaceDragon
@@ -289,3 +295,9 @@
   values:
     prefix: figurines-griffin-
     count: 5
+
+- type: localizedDataset
+  id: FigurinesMechGeneric
+  values:
+    prefix: figurines-mech-generic-
+    count: 4

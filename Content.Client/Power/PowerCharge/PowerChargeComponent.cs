@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Power;
+using Content.Shared.Power;
 
 namespace Content.Client.Power.PowerCharge;
 

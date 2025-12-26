@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Maps.NameGenerators;
+using Content.Server.Maps.NameGenerators;
 
 namespace Content.Server.Station.Components;
 

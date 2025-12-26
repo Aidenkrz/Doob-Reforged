@@ -88,7 +88,6 @@
     - Syndicate
     globalReceive: true
   - type: Physics
-    bodyType: Dynamic
     bodyStatus: InAir
   - type: CanMoveInAir
   # singulose components

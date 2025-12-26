@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: decal
+- type: decal
   id: BrickTileWhiteBox
   tags: ["station", "markings"]
   sprite:

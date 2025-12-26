@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entity
+- type: entity
   parent: BaseHandheldInstrument
   id: BasePercussionInstrument
   abstract: true
@@ -65,7 +65,10 @@
     sprite: Objects/Fun/Instruments/microphone.rsi
   - type: Item
     size: Small
-    storedRotation: -45
+    storedSprite:
+      state: storage
+      sprite: Objects/Fun/Instruments/microphone.rsi
+
 
 - type: entity
   parent: BasePercussionInstrument

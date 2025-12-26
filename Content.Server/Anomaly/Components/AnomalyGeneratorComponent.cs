@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Anomaly;
+using Content.Shared.Anomaly;
 using Content.Shared.Materials;
 using Content.Shared.Radio;
 using Robust.Shared.Audio;

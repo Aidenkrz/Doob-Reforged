@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿roles-antag-changeling-name = Changeling
+roles-antag-changeling-name = Changeling
 roles-antag-changeling-objective = A intelligent predator that assumes the identities of its victims.
 
 changeling-devour-attempt-failed-rotting = This corpse has only rotted biomass.

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Light.EntitySystems;
+using Content.Server.Light.EntitySystems;
 
 namespace Content.Server.Light.Components
 {

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Damage.Components;
+using Content.Shared.Damage.Components;
 
 namespace Content.Shared.Damage.Systems;
 

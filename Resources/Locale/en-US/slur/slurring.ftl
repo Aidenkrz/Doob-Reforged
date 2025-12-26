@@ -2,5 +2,5 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿slur-accent-confused = ...huuuhhh...
+slur-accent-confused = ...huuuhhh...
 slur-accent-burp = *BURP*.

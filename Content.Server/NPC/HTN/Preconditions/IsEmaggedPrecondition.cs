@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Emag.Systems;
+using Content.Shared.Emag.Systems;
 
 namespace Content.Server.NPC.HTN.Preconditions;
 

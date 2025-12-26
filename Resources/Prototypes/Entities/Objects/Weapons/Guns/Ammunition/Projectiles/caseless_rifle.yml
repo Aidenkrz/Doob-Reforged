@@ -3,10 +3,10 @@
 # SPDX-License-Identifier: MIT-WIZARDS
 
 - type: entity
-  id: BulletCaselessRifle
-  name: bullet (.25 caseless)
   parent: BaseBullet
+  id: BulletCaselessRifle
   categories: [ HideSpawnMenu ]
+  name: bullet (.25 caseless)
   components:
   - type: Projectile
     damage:
@@ -14,10 +14,10 @@
         Piercing: 19
 
 - type: entity
-  id: BulletCaselessRiflePractice
-  name: bullet (.25 caseless practice)
   parent: BaseBulletPractice
+  id: BulletCaselessRiflePractice
   categories: [ HideSpawnMenu ]
+  name: bullet (.25 caseless practice)
   components:
   - type: Projectile
     damage:

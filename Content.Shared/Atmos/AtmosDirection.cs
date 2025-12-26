@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
+using System.Numerics;
 using System.Runtime.CompilerServices;
 using Robust.Shared.Serialization;
 

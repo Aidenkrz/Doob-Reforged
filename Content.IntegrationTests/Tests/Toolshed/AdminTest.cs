@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Reflection;
 using Content.Server.Administration.Managers;
 using Robust.Shared.Toolshed;
@@ -18,7 +18,7 @@ public sealed class AdminTest : ToolshedTest
         var toolMan = Server.ResolveDependency<ToolshedManager>();
         var admin = Server.ResolveDependency<IAdminManager>();
         var ignored = new HashSet<Assembly>()
-            {typeof(LocTest).Assembly, typeof(Robust.UnitTesting.Shared.Toolshed.LocTest).Assembly};
+            {typeof(LocTest).Assembly};
 
         await Server.WaitAssertion(() =>
         {

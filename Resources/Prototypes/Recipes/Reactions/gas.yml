@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: reaction
+- type: reaction
   id: CarbonDioxideBreakdown
   source: true
   requiredMixerCategories:

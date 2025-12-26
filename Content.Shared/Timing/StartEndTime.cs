@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Timing;
+using Robust.Shared.Timing;
 
 namespace Content.Shared.Timing;
 

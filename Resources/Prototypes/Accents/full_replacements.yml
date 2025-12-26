@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# Accents that work off of full replacements rather than word replacements.
+# Accents that work off of full replacements rather than word replacements.
 
 - type: accent
   id: cat

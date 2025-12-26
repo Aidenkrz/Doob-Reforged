@@ -6,7 +6,7 @@ using Robust.Shared.Serialization;
 
 namespace Content.Shared.Sticky.Components;
 
-﻿using DrawDepth;
+using DrawDepth;
 
 /// <summary>
 /// Sets the sprite's draw depth depending on whether it's stuck.

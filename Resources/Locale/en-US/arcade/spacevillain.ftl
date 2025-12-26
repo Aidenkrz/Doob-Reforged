@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿spacevillain-menu-title = Space Villain
+spacevillain-menu-title = Space Villain
 spacevillain-menu-label-player = Player
 spacevillain-menu-button-attack = ATTACK
 spacevillain-menu-button-heal = HEAL

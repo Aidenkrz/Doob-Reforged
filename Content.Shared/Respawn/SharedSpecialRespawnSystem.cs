@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Respawn;
+namespace Content.Shared.Respawn;
 
 public abstract class SharedSpecialRespawnSystem : EntitySystem
 {

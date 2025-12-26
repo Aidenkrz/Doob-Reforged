@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.IntegrationTests;
+namespace Content.IntegrationTests;
 
 /// <inheritdoc/>
 public sealed class PoolSettings : PairSettings

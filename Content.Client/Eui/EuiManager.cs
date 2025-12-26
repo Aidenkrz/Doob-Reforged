@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System;
+using System;
 using System.Collections.Generic;
 using Content.Shared.Eui;
 using Robust.Client.GameStates;

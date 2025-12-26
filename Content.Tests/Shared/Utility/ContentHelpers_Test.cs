@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using Content.Shared.Rounding;
 using NUnit.Framework;
 

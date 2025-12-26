@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Diagnostics.CodeAnalysis;
+using System.Diagnostics.CodeAnalysis;
 using System.Diagnostics.Contracts;
 
 namespace Content.Server.Worldgen;
@@ -60,4 +60,3 @@ public struct GridPointsNearEnumerator
         return true;
     }
 }
-

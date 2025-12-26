@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.MouseRotator;
+using Content.Shared.MouseRotator;
 
 namespace Content.Server.MouseRotator;
 

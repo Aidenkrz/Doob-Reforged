@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿cmd-camera-desc = Opens a remote camera window for an entity.
+cmd-camera-desc = Opens a remote camera window for an entity.
 cmd-camera-help = Usage: camera <entityUid or player>
 
 cmd-camera-hint = <entityUid or player>

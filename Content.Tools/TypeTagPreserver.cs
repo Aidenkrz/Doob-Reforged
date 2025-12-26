@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using YamlDotNet.Core;
+using YamlDotNet.Core;
 using YamlDotNet.Core.Events;
 
 namespace Content.Tools

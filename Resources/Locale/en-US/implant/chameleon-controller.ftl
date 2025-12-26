@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿chameleon-controller-ui-window-name = Chameleon controls
+chameleon-controller-ui-window-name = Chameleon controls

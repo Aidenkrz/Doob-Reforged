@@ -2,6 +2,6 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Actions.Events;
+namespace Content.Shared.Actions.Events;
 
 public sealed partial class EggLayInstantActionEvent : InstantActionEvent {}

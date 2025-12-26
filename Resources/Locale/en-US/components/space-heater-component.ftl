@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿comp-space-heater-ui-title = Temperature Control Unit
+comp-space-heater-ui-title = Temperature Control Unit
 comp-space-heater-ui-thermostat = Thermostat:
 comp-space-heater-ui-mode = Mode
 comp-space-heater-ui-status-disabled = Off

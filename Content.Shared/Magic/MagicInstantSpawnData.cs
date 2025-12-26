@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Magic;
+namespace Content.Shared.Magic;
 
 // TODO: If still needed, move to magic component
 [ImplicitDataDefinitionForInheritors]

@@ -1,8 +1,4 @@
-// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
-//
-// SPDX-License-Identifier: MIT-WIZARDS
-
-using Content.Shared.Power;
+using Content.Shared.Power.Components;
 
 namespace Content.Client.PowerCell;
 
@@ -13,15 +9,13 @@ public sealed partial class PowerChargerVisualsComponent : Component
     /// <summary>
     /// The base sprite state used if the power cell charger does not contain a power cell.
     /// </summary>
-    [DataField("emptyState")]
-    [ViewVariables(VVAccess.ReadWrite)]
+    [DataField]
     public string EmptyState = "empty";
 
     /// <summary>
     /// The base sprite state used if the power cell charger contains a power cell.
     /// </summary>
-    [DataField("occupiedState")]
-    [ViewVariables(VVAccess.ReadWrite)]
+    [DataField]
     public string OccupiedState = "full";
 
     /// <summary>
@@ -31,8 +25,7 @@ public sealed partial class PowerChargerVisualsComponent : Component
     /// <see cref="CellChargerStatus.Charging"/> Maps to the state used when the charger is charging a power cell.
     /// <see cref="CellChargerStatus.Charged"/> Maps to the state used when the charger contains a fully charged power cell.
     /// </summary>
-    [DataField("lightStates")]
-    [ViewVariables(VVAccess.ReadWrite)]
+    [DataField]
     public Dictionary<CellChargerStatus, string> LightStates = new()
     {
         [CellChargerStatus.Off] = "light-off",

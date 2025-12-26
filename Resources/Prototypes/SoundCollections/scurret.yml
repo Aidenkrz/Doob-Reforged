@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: soundCollection
+- type: soundCollection
   id: WawaLaugh
   files:
   - /Audio/Animals/wawa_mock.ogg

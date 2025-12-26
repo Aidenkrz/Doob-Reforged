@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace Pow3r

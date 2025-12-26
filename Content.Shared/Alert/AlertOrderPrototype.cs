@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Linq;
+using System.Linq;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 

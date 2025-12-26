@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Chat;
+using Content.Shared.Chat;
 
 namespace Content.Server.Chat;
 

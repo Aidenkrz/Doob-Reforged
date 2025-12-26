@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿hugbot-start-hug-1 = LEVEL 5 HUG DEFICIENCY DETECTED!
+hugbot-start-hug-1 = LEVEL 5 HUG DEFICIENCY DETECTED!
 hugbot-start-hug-2 = You look like you need a hug!
 hugbot-start-hug-3 = Aww, somebody needs a hug!
 hugbot-start-hug-4 = Target acquired; Initiating hug routine.

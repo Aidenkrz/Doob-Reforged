@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.GameTicking.Rules.Components;
+namespace Content.Server.GameTicking.Rules.Components;
 
 [RegisterComponent, Access(typeof(SandboxRuleSystem))]
 public sealed partial class SandboxRuleComponent : Component

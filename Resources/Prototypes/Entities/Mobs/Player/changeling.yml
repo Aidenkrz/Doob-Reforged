@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: MIT-WIZARDS
 
 - type: entity
-  parent: MobHuman
+  parent: [ MobHuman, StorePresetChangeling ]
   id: MobLing
   name: Urist McLing
   suffix: Non-Antag
@@ -13,4 +13,12 @@
   - type: ChangelingTransform
   - type: ActionGrant
     actions:
-    - ActionRetractableItemArmBlade # Temporary addition, will inevitably be a purchasable in the bio-store
+    - ActionChangelingStore
+  - type: Store
+    balance:
+      ChangelingDNA: 50
+  - type: UserInterface
+    interfaces:
+      enum.StoreUiKey.Key:
+        type: StoreBoundUserInterface
+        requireInputValidation: false

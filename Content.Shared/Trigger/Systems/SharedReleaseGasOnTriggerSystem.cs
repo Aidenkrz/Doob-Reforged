@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Trigger.Components.Effects;
+using Content.Shared.Trigger.Components.Effects;
 using Robust.Shared.Timing;
 
 namespace Content.Shared.Trigger.Systems;

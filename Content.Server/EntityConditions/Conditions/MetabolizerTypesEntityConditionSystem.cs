@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Linq;
+using System.Linq;
 using Content.Server.Body.Components;
 using Content.Shared.EntityConditions;
 using Content.Shared.EntityConditions.Conditions.Body;

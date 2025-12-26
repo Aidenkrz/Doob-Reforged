@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Armor;
+using Content.Shared.Armor;
 
 namespace Content.Client.Armor;
 

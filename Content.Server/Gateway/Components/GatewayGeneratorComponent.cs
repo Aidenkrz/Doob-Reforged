@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Parallax.Biomes.Markers;
+using Content.Shared.Parallax.Biomes.Markers;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom;
 
@@ -70,4 +70,3 @@ public sealed partial class GatewayGeneratorComponent : Component
         "OreArtifactFragment",
     };
 }
-

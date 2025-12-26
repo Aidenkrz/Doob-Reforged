@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Mobs;
+using Content.Shared.Mobs;
 using Robust.Shared.GameStates;
 
 namespace Content.Shared.Trigger.Components.Triggers;

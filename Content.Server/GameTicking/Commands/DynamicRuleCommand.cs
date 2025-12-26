@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Linq;
+using System.Linq;
 using Content.Server.Administration;
 using Content.Server.GameTicking.Rules;
 using Content.Shared.Administration;
@@ -104,4 +104,3 @@ public sealed class DynamicRuleCommand : ToolshedCommand
         return _dynamicRuleSystem.Rules(input);
     }
 }
-

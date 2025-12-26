@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
 SPDX-License-Identifier: MIT-WIZARDS
 -->
 
-﻿<DefaultWindow Title="{Loc make-ghost-roles-window-title}"
+<DefaultWindow Title="{Loc make-ghost-roles-window-title}"
             xmlns="https://spacestation14.io">
 
     <BoxContainer Orientation="Vertical">

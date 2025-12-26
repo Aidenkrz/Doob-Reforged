@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Construction.Steps
+namespace Content.Shared.Construction.Steps
 {
     [ImplicitDataDefinitionForInheritors]
     public abstract partial class EntityInsertConstructionGraphStep : ConstructionGraphStep

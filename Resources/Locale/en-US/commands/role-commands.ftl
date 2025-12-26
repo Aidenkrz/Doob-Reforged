@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿cmd-addrole-desc = Adds a role to a player's mind.
+cmd-addrole-desc = Adds a role to a player's mind.
 cmd-addrole-help = Usage: addrole <session ID> <role>
 cmd-addrole-mind-not-found = Can't find that mind.
 cmd-addrole-role-not-found = Can't find that role.

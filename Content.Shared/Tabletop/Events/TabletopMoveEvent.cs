@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Tabletop.Components;
+using Content.Shared.Tabletop.Components;
 using Robust.Shared.Map;
 using Robust.Shared.Serialization;
 

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿#nullable enable
+#nullable enable
 using Robust.Shared.Network;
 using Robust.Shared.Serialization;
 

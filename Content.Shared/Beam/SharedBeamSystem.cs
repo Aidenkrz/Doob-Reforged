@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Beam;
+namespace Content.Shared.Beam;
 
 public abstract class SharedBeamSystem : EntitySystem
 {

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entity
+- type: entity
   id: MailingUnitElectronics
   parent: BaseElectronics
   name: mailing unit electronics

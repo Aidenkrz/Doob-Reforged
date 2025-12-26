@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Diagnostics.Metrics;
+using System.Diagnostics.Metrics;
 using System.Runtime.InteropServices;
 using Content.Server.Afk;
 using Robust.Server.DataMetrics;

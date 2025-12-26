@@ -1,5 +1,3 @@
-# SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
-#
-# SPDX-License-Identifier: MIT-WIZARDS
+spray-component-is-empty-message = {CAPITALIZE(THE($entity))} is empty!
 
-spray-component-is-empty-message = It's empty!
+pin-spray-popup-empty = {CAPITALIZE(THE($entity))} is wilting and needs to be watered!

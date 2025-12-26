@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Client.Stylesheets;
+using Content.Client.Stylesheets;
 using Robust.Client.UserInterface.Controls;
 
 namespace Content.Client.Changelog

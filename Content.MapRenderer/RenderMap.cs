@@ -3,7 +3,7 @@
 // SPDX-License-Identifier: MIT-WIZARDS
 
 using System.IO;
-using Content.Server.Maps;
+using Content.Shared.Maps;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Utility;
 

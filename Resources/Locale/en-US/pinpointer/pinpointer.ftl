@@ -2,4 +2,4 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿examine-pinpointer-linked = It is tracking: {$target}
+examine-pinpointer-linked = It is tracking: {$target}

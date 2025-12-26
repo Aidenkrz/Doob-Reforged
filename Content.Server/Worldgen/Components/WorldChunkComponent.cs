@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Worldgen.Systems;
+using Content.Server.Worldgen.Systems;
 
 namespace Content.Server.Worldgen.Components;
 
@@ -23,4 +23,3 @@ public sealed partial class WorldChunkComponent : Component
     /// </summary>
     [DataField("map")] public EntityUid Map;
 }
-

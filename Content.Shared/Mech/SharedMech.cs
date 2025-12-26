@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Actions;
+using Content.Shared.Actions;
 using Robust.Shared.Serialization;
 
 namespace Content.Shared.Mech;

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Sound.Components;
+using Content.Shared.Sound.Components;
 using Robust.Shared.GameStates;
 
 namespace Content.Shared.Audio;

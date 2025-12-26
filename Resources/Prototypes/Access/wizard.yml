@@ -2,6 +2,6 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: accessLevel
+- type: accessLevel
   id: Wizard
   name: id-card-access-level-wizard

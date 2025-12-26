@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Linq;
+using System.Linq;
 using System.Text;
 using Content.Server.Administration.BanList;
 using Content.Server.EUI;

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Atmos.Reactions;
+namespace Content.Shared.Atmos.Reactions;
 
 [Flags]
 public enum ReactionResult : byte

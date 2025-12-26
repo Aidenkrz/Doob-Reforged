@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿guidebook-reagent-effect-description =
+guidebook-reagent-effect-description =
     {$quantity ->
         [0] {""}
         *[other] If there is at least {$quantity}u {$reagent},{" "}

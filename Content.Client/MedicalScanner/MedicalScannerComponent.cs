@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.MedicalScanner;
+using Content.Shared.MedicalScanner;
 
 namespace Content.Client.MedicalScanner;
 

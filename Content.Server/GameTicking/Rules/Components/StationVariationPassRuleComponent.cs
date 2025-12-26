@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.GameTicking.Rules.Components;
+namespace Content.Server.GameTicking.Rules.Components;
 
 /// <summary>
 /// This is a marker component placed on rule entities which are a single "pass" of station variation.

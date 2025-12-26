@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿sensor-monitoring-window-title = Sensor Monitoring Console
+sensor-monitoring-window-title = Sensor Monitoring Console
 
 sensor-monitoring-value-display = {$unit ->
     [PressureKpa] { PRESSURE($value) }

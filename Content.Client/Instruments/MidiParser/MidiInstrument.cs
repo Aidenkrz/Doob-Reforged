@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Utility;
+using Robust.Shared.Utility;
 
 namespace Content.Client.Instruments.MidiParser;
 

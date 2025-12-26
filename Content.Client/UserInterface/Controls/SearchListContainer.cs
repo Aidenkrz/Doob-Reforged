@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Linq;
+using System.Linq;
 using Robust.Client.UserInterface.Controls;
 
 namespace Content.Client.UserInterface.Controls;

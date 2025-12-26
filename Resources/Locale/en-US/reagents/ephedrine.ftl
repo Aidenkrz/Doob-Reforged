@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿### Messages that pop up when metabolizing ephedrine.
+### Messages that pop up when metabolizing ephedrine.
 
 ephedrine-effect-tight-pain = You feel a tight pain in your chest.
 ephedrine-effect-heart-pounds = Your heart pounds!

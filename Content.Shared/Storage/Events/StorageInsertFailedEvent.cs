@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Hands.Components;
+using Content.Shared.Hands.Components;
 
 namespace Content.Shared.Storage.Events;
 

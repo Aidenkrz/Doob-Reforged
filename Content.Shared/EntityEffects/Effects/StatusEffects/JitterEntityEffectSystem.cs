@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Jittering;
+using Content.Shared.Jittering;
 using Content.Shared.StatusEffect;
 using Robust.Shared.Prototypes;
 

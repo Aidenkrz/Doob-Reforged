@@ -2,5 +2,5 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿variantize-command-description = Randomizes all tile variants on a given grid.
+variantize-command-description = Randomizes all tile variants on a given grid.
 variantize-command-help-text = variantize <grid id>

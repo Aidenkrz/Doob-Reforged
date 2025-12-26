@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Physics.Controllers;
+using Content.Shared.Physics.Controllers;
 
 namespace Content.Client.Physics.Controllers;
 

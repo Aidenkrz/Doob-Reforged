@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Construction.Components;
+using Content.Shared.Construction.Components;
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
 

@@ -1,8 +1,4 @@
-// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
-//
-// SPDX-License-Identifier: MIT-WIZARDS
-
-using Content.Shared.Power;
+using Content.Shared.Power.Components;
 using Robust.Client.GameObjects;
 
 namespace Content.Client.PowerCell;

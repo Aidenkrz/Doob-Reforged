@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Implants;
+using Content.Shared.Implants;
 
 namespace Content.Client.Implants;
 

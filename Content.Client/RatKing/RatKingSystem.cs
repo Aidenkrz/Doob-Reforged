@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.RatKing;
+using Content.Shared.RatKing;
 
 namespace Content.Client.RatKing;
 

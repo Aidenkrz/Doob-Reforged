@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
+using System.Numerics;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.Manager;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype.Array;
@@ -17,7 +17,7 @@ namespace Content.Server.Worldgen.Prototypes;
 public sealed partial class BiomePrototype : IPrototype, IInheritingPrototype
 {
     /// <inheritdoc />
-    [ParentDataField(typeof(AbstractPrototypeIdArraySerializer<EntityPrototype>))]
+    [ParentDataField(typeof(AbstractPrototypeIdArraySerializer<BiomePrototype>))]
     public string[]? Parents { get; private set; }
 
     /// <inheritdoc />
@@ -62,4 +62,3 @@ public sealed partial class BiomePrototype : IPrototype, IInheritingPrototype
         }
     }
 }
-

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Linq;
+using System.Linq;
 using Content.Server.Worldgen.Systems.Debris;
 using Content.Server.Worldgen.Tools;
 using Content.Shared.Maps;
@@ -48,4 +48,3 @@ public sealed partial class SimpleFloorPlanPopulatorComponent : Component
         }
     }
 }
-

@@ -1,8 +1,3 @@
-// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
-//
-// SPDX-License-Identifier: MIT-WIZARDS
-
-using Content.Shared.ActionBlocker;
 using Content.Shared.Movement.Components;
 
 namespace Content.Shared.Movement.Systems;
@@ -65,6 +60,7 @@ public abstract partial class SharedMoverController
         Dirty(uid, component);
         Dirty(relayEntity, targetComp);
         _blocker.UpdateCanMove(uid);
+        UpdateMoverStatus((relayEntity, null, targetComp));
     }
 
     private void OnRelayShutdown(Entity<RelayInputMoverComponent> entity, ref ComponentShutdown args)
@@ -84,7 +80,7 @@ public abstract partial class SharedMoverController
         _blocker.UpdateCanMove(entity.Owner);
     }
 
-    private void OnTargetRelayShutdown(Entity<MovementRelayTargetComponent> entity, ref ComponentShutdown args)
+    protected virtual void OnTargetRelayShutdown(Entity<MovementRelayTargetComponent> entity, ref ComponentShutdown args)
     {
         PhysicsSystem.UpdateIsPredicted(entity.Owner);
         PhysicsSystem.UpdateIsPredicted(entity.Comp.Source);
@@ -95,4 +91,6 @@ public abstract partial class SharedMoverController
         if (TryComp(entity.Comp.Source, out RelayInputMoverComponent? relay) && relay.LifeStage <= ComponentLifeStage.Running)
             RemComp(entity.Comp.Source, relay);
     }
+
+    protected virtual void UpdateMoverStatus(Entity<InputMoverComponent?, MovementRelayTargetComponent?> ent) { }
 }

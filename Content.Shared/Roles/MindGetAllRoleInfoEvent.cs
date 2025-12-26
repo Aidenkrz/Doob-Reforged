@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Players.PlayTimeTracking;
+using Content.Shared.Players.PlayTimeTracking;
 
 namespace Content.Shared.Roles;
 

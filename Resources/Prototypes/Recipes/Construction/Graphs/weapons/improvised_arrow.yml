@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: constructionGraph
+- type: constructionGraph
   id: ImprovisedArrow
   start: start
   graph:
@@ -112,4 +112,3 @@
 
   - node: CardArrow
     entity: ArrowCard
-

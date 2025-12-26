@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Power.NodeGroups;
+using Content.Server.Power.NodeGroups;
 
 namespace Content.Server.Power.Components
 {

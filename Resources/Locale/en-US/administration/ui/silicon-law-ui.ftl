@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿silicon-law-ui-verb = Manage laws
+silicon-law-ui-verb = Manage laws
 silicon-law-ui-title = Silicon laws
 silicon-law-ui-new-law = New law
 silicon-law-ui-save = Save changes

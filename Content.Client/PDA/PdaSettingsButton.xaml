@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
 SPDX-License-Identifier: MIT-WIZARDS
 -->
 
-﻿<pda:PdaSettingsButton xmlns="https://spacestation14.io"
+<pda:PdaSettingsButton xmlns="https://spacestation14.io"
                        xmlns:pda="clr-namespace:Content.Client.PDA"
                        HorizontalExpand="True"
                        MinHeight="48"

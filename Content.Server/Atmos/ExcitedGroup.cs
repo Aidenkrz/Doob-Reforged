@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Server.Atmos;
+namespace Content.Server.Atmos;
 
 /// <summary>
 /// <para>Internal Atmospherics class that stores data about a group of <see cref="TileAtmosphere"/>s

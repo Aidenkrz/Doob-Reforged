@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: entity
+- type: entity
   parent: [BaseStructureDynamic, BaseXenoArtifact]
   id: BaseXenoArtifactStructure
   name: artifact
@@ -23,6 +23,8 @@
     - state: artifact-activation
       map: [ "enum.ArtifactsVisualLayers.ActivationEffect" ]
       visible: false
+  - type: Physics
+    bodyType: KinematicController
   - type: RandomArtifactSprite
     maxSprite: 36
   - type: RandomSprite
@@ -51,4 +53,3 @@
     nodeCount:
       min: 9
       max: 13
-

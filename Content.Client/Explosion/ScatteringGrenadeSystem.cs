@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Explosion.EntitySystems;
+using Content.Shared.Explosion.EntitySystems;
 
 namespace Content.Client.Explosion;
 

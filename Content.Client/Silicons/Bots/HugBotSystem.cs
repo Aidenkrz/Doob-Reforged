@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.Silicons.Bots;
+using Content.Shared.Silicons.Bots;
 
 namespace Content.Client.Silicons.Bots;
 

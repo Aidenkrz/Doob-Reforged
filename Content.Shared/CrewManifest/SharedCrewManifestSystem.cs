@@ -3,7 +3,6 @@
 // SPDX-License-Identifier: MIT-WIZARDS
 
 using Content.Shared.Eui;
-using NetSerializer;
 using Robust.Shared.Serialization;
 
 namespace Content.Shared.CrewManifest;

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Collections.Immutable;
+using System.Collections.Immutable;
 using Robust.Shared.Prototypes;
 
 namespace Content.Shared.EntityList

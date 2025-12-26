@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System;
+using System;
 using Robust.Client.UserInterface.CustomControls;
 using Robust.Shared.IoC;
 

@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿- type: polymorph
+- type: polymorph
   id: AdminLizardSmite
   configuration:
     entity: MobReptilian

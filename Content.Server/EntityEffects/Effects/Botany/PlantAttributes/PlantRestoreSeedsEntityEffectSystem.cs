@@ -12,7 +12,6 @@ namespace Content.Server.EntityEffects.Effects.Botany.PlantAttributes;
 
 public sealed partial class PlantRestoreSeedsEntityEffectSystem : EntityEffectSystem<PlantHolderComponent, PlantRestoreSeeds>
 {
-    [Dependency] private readonly PlantHolderSystem _plantHolder = default!;
     [Dependency] private readonly PopupSystem _popup = default!;
 
     protected override void Effect(Entity<PlantHolderComponent> entity, ref EntityEffectEvent<PlantRestoreSeeds> args)
@@ -23,7 +22,6 @@ public sealed partial class PlantRestoreSeedsEntityEffectSystem : EntityEffectSy
         if (!entity.Comp.Seed.Seedless)
             return;
 
-        _plantHolder.EnsureUniqueSeed(entity, entity.Comp);
         _popup.PopupEntity(Loc.GetString("botany-plant-seedsrestored"), entity);
         entity.Comp.Seed.Seedless = false;
     }

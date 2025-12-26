@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System;
+using System;
 using Content.Server.Database;
 using Content.Shared.Preferences;
 using NUnit.Framework;

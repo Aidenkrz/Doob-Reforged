@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Globalization;
 using System.Reflection;
 using Robust.Shared.Localization;
@@ -23,7 +23,7 @@ public sealed class LocTest : ToolshedTest
         var locStrings = new HashSet<string>();
 
         var ignored = new HashSet<Assembly>()
-            {typeof(LocTest).Assembly, typeof(Robust.UnitTesting.Shared.Toolshed.LocTest).Assembly};
+            {typeof(LocTest).Assembly};
 
         await Server.WaitAssertion(() =>
         {

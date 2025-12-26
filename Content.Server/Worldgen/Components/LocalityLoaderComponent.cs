@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Worldgen.Systems;
+using Content.Server.Worldgen.Systems;
 
 namespace Content.Server.Worldgen.Components;
 
@@ -20,4 +20,3 @@ public sealed partial class LocalityLoaderComponent : Component
     /// </summary>
     [DataField("loadingDistance")] public int LoadingDistance = 32;
 }
-

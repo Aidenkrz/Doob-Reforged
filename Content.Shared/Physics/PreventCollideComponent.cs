@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.GameStates;
+using Robust.Shared.GameStates;
 
 namespace Content.Shared.Physics;
 
@@ -15,4 +15,3 @@ public sealed partial class PreventCollideComponent : Component
     [AutoNetworkedField]
     public EntityUid Uid;
 }
-

@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Robust.Shared.Console;
+using Robust.Shared.Console;
 
 namespace Content.Client.Ghost.Commands;
 

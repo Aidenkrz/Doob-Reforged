@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Server.Administration;
+using Content.Server.Administration;
 using Content.Server.Roles.Jobs;
 using Content.Shared.Administration;
 using Content.Shared.Players;

@@ -31,6 +31,7 @@ public sealed partial class RoleLoadout : IEquatable<RoleLoadout>
     /// <summary>
     /// Loadout specific name.
     /// </summary>
+    [DataField]
     public string? EntityName;
 
     /*

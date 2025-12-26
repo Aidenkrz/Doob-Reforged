@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# UI Labels
+# UI Labels
 gas-pressure-regulator-ui-set-threshold = Set
 gas-pressure-regulator-ui-zero-threshold = Zero
 gas-pressure-regulator-ui-set-to-current-pressure = Set to Inlet Pressure

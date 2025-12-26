@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.CardboardBox;
+namespace Content.Shared.CardboardBox;
 
 public abstract class SharedCardboardBoxSystem : EntitySystem
 {

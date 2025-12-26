@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: MIT-WIZARDS
 
-﻿# Ejection verb label.
+# Ejection verb label.
 cryo-pod-verb-noun-occupant = Patient
 # Examine text showing whether there's a beaker in the pod and if it is empty.
 cryo-pod-examine = There's {INDEFINITE($beaker)} {$beaker} in here.

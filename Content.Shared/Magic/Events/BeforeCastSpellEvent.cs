@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Magic.Events;
+namespace Content.Shared.Magic.Events;
 
 [ByRefEvent]
 public struct BeforeCastSpellEvent(EntityUid performer)

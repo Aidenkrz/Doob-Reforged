@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using System.Numerics;
+using System.Numerics;
 using Robust.Shared.Noise;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization.TypeSerializers.Implementations.Custom.Prototype.Array;
@@ -87,7 +87,7 @@ public class NoiseChannelConfig
 public sealed partial class NoiseChannelPrototype : NoiseChannelConfig, IPrototype, IInheritingPrototype
 {
     /// <inheritdoc />
-    [ParentDataField(typeof(AbstractPrototypeIdArraySerializer<EntityPrototype>))]
+    [ParentDataField(typeof(AbstractPrototypeIdArraySerializer<NoiseChannelPrototype>))]
     public string[]? Parents { get; private set; }
 
     /// <inheritdoc />
@@ -171,4 +171,3 @@ public abstract partial class NoisePostProcess
 {
     public abstract float Process(float inp);
 }
-

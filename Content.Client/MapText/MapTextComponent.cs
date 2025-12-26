@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Shared.MapText;
+using Content.Shared.MapText;
 using Robust.Client.Graphics;
 
 namespace Content.Client.MapText;

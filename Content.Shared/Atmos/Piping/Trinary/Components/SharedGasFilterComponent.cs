@@ -1,8 +1,6 @@
-// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
-//
-// SPDX-License-Identifier: MIT-WIZARDS
-
-﻿using Robust.Shared.Serialization;
+﻿using Content.Shared.Atmos.Prototypes;
+using Robust.Shared.Prototypes;
+using Robust.Shared.Serialization;
 
 namespace Content.Shared.Atmos.Piping.Trinary.Components
 {
@@ -52,13 +50,8 @@ namespace Content.Shared.Atmos.Piping.Trinary.Components
     }
 
     [Serializable, NetSerializable]
-    public sealed class GasFilterSelectGasMessage : BoundUserInterfaceMessage
+    public sealed class GasFilterSelectGasMessage(Gas? gas) : BoundUserInterfaceMessage
     {
-        public int? ID { get; }
-
-        public GasFilterSelectGasMessage(int? id)
-        {
-            ID = id;
-        }
+        public readonly Gas? Gas = gas;
     }
 }

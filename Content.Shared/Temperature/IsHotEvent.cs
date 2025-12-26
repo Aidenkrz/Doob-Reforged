@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿namespace Content.Shared.Temperature
+namespace Content.Shared.Temperature
 {
     /// <summary>
     ///     Directed event raised on entities to query whether they're "hot" or not.

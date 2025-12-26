@@ -2,7 +2,7 @@
 //
 // SPDX-License-Identifier: MIT-WIZARDS
 
-﻿using Content.Client.Atmos.EntitySystems;
+using Content.Client.Atmos.EntitySystems;
 using Content.Shared.Atmos;
 using Content.Shared.Atmos.Piping.Trinary.Components;
 using Content.Shared.Localizations;
@@ -56,14 +56,18 @@ namespace Content.Client.Atmos.UI
 
         private void OnSelectGasPressed()
         {
-            if (_window is null) return;
+            if (_window is null)
+                return;
+
             if (_window.SelectedGas is null)
             {
                 SendMessage(new GasFilterSelectGasMessage(null));
             }
             else
             {
-                if (!int.TryParse(_window.SelectedGas, out var gas)) return;
+                if (!Enum.TryParse<Gas>(_window.SelectedGas, out var gas))
+                    return;
+
                 SendMessage(new GasFilterSelectGasMessage(gas));
             }
         }

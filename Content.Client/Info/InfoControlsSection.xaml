@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
 SPDX-License-Identifier: MIT-WIZARDS
 -->
 
-﻿<BoxContainer xmlns="https://spacestation14.io"
+<BoxContainer xmlns="https://spacestation14.io"
               Orientation="Vertical">
     <Label Text="{Loc 'ui-info-header-controls'}" StyleClasses="LabelHeading"/>
     <BoxContainer Orientation="Horizontal"

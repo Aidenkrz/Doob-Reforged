@@ -150,7 +150,6 @@
         - RawMaterial
         - Ingot
       components:
-        - ConstructionMaterial
         - Circuitboard
         - Flatpack
         - FloorTile
