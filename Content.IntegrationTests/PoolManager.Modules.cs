@@ -1,4 +1,8 @@
-﻿#nullable enable
+// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
+//
+// SPDX-License-Identifier: MPL-2.0
+
+#nullable enable
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
