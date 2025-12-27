@@ -1,4 +1,8 @@
-﻿namespace Content.ModuleManager;
+// SPDX-FileCopyrightText: 2025 Space Station 14 Contributors
+//
+// SPDX-License-Identifier: MPL-2.0
+
+namespace Content.ModuleManager;
 
 public sealed class ModuleManifest
 {
