@@ -19,9 +19,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Content.Server\Content.Server.csproj" />
-    <ProjectReference Include="..\Content.Goobstation.Common\Content.Goobstation.Common.csproj" />
-    <ProjectReference Include="..\Content.Goobstation.Shared\Content.Goobstation.Shared.csproj" />
-    <ProjectReference Include="..\Content.Goobstation.Maths\Content.Goobstation.Maths.csproj" />
+    <ProjectReference Include="..\Content.Template.Common\Content.Template.Common.csproj" />
+    <ProjectReference Include="..\Content.Template.Shared\Content.Template.Shared.csproj" />
+    <ProjectReference Include="..\Content.Template.Maths\Content.Template.Maths.csproj" />
   </ItemGroup>
 
 </Project>

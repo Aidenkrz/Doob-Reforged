@@ -1,6 +1,6 @@
-﻿namespace Content.Goobstation.Client.IoC;
+﻿namespace Content.Template.Shared.IoC;
 
-internal static class ClientGoobContentIoc
+internal static class SharedTemplateContentIoc
 {
     internal static void Register()
     {
