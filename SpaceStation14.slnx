@@ -13,6 +13,28 @@
   <Folder Name="/Build/">
     <File Path="Tools/generate_hashes.ps1" />
   </Folder>
+  <Folder Name="/Modules/">
+    <File Path="Modules/README.MD" />
+  </Folder>
+  <Folder Name="/Modules/GoobStation/">
+    <File Path="Modules/GoobStation/module.yml" />
+    <Project Path="Modules/GoobStation/Content.Goobstation.Client/Content.Goobstation.Client.csproj">
+      <BuildType Solution="DebugOpt|*" Project="Debug" />
+      <BuildType Solution="Tools|*" Project="Debug" />
+    </Project>
+    <Project Path="Modules/GoobStation/Content.Goobstation.Common/Content.Goobstation.Common.csproj">
+      <BuildType Solution="DebugOpt|*" Project="Debug" />
+      <BuildType Solution="Tools|*" Project="Debug" />
+    </Project>
+    <Project Path="Modules/GoobStation/Content.Goobstation.Server/Content.Goobstation.Server.csproj">
+      <BuildType Solution="DebugOpt|*" Project="Debug" />
+      <BuildType Solution="Tools|*" Project="Debug" />
+    </Project>
+    <Project Path="Modules/GoobStation/Content.Goobstation.Shared/Content.Goobstation.Shared.csproj">
+      <BuildType Solution="DebugOpt|*" Project="Debug" />
+      <BuildType Solution="Tools|*" Project="Debug" />
+    </Project>
+  </Folder>
   <Folder Name="/MSBuild/">
     <File Path="MSBuild/Content.props" />
   </Folder>
@@ -27,6 +49,10 @@
   <Project Path="Content.Client/Content.Client.csproj" />
   <Project Path="Content.IntegrationTests/Content.IntegrationTests.csproj" />
   <Project Path="Content.MapRenderer/Content.MapRenderer.csproj" />
+  <Project Path="Content.ModuleManager/Content.ModuleManager.csproj">
+    <BuildType Solution="DebugOpt|*" Project="Debug" />
+    <BuildType Solution="Tools|*" Project="Debug" />
+  </Project>
   <Project Path="Content.Packaging/Content.Packaging.csproj" />
   <Project Path="Content.PatreonParser/Content.PatreonParser.csproj">
     <BuildType Solution="DebugOpt|*" Project="Debug" />
@@ -41,6 +67,7 @@
   <Project Path="Content.Tools/Content.Tools.csproj" />
   <Project Path="Content.YAMLLinter/Content.YAMLLinter.csproj" />
   <Project Path="Pow3r/Pow3r.csproj" />
+  <Folder Name="/RobustToolbox/.github/" />
   <Folder Name="/RobustToolbox/.github/workflows/">
     <File Path="RobustToolbox/.github/workflows/benchmarks.yml" />
     <File Path="RobustToolbox/.github/workflows/build-all-configurations.yml" />
