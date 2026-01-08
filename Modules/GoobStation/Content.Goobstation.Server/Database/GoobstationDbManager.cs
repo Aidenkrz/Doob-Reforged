@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Goob Station Contributors
+//
+// SPDX-License-Identifier: MPL-2.0
+
 using System.IO;
 using System.Threading.Tasks;
 using Content.Goobstation.Common.CCVar;
