@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Goob Station Contributors
+//
+// SPDX-License-Identifier: MPL-2.0
+
 using Content.Goobstation.Server.Database;
 using Content.Server.Administration;
 using Content.Shared.Administration;
